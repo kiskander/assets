@@ -1,0 +1,4563 @@
+{
+	"version": "1.0.0",
+	"instanceId": "6823157189048769",
+	"eventId": "NETWORK-CLIENTS-3-506",
+	"namespace": "DNACENTER",
+	"name": "Client Tracing",
+	"description": "Trace clients in a close proximity of a specific user",
+	"type": "NETWORK",
+	"category": "INFO",
+	"domain": "Know Your Network",
+	"subDomain": "Clients",
+	"severity": 3,
+	"source": "DNAC",
+	"timestamp": 1603831158814,
+	"details": {
+		"start_time": "1603670400000",
+		"user_name": "carl",
+		"end_time": "1603831103208",
+		"time_resolution": "15",
+		"number_days": "1",
+		"client_proximity": [{
+			"client_info": [{
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:78:6C:90",
+					"client_user": "admin",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603778381986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603779281986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603779281986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603780181986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603780181986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603781081986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603781081986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603781981986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603781981986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603782881986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603782881986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603783781986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603783781986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603784681986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603784681986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603785581986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603785581986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603786481986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603786481986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603787381986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603787381986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603788281986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603788281986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603789181986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603789181986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603790081986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603790081986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603790981986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "admin",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603790981986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603791881986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "admin",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603791881986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603792781986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603792781986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603793681986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603793681986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603794581986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603794581986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603795481986",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}],
+				"start_time": "1603795481986",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603796014163",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}],
+				"start_time": "1603796014163",
+				"ap_name": "C9120.B9B4",
+				"end_time": "1603796026177",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}],
+				"start_time": "1603796026177",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603796926177",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}],
+				"start_time": "1603796926177",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603797826177",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603797826177",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603798615820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603798615820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603799515820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603799515820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603800415820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603800415820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603801315820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603801315820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603802215820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603802215820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603803115820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603803115820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603804015820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603804015820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603804915820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603804915820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603805815820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603805815820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603806715820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603806715820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603807615820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603807615820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603808515820",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603808515820",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603808843802",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603808843802",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603809143198",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603809143198",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603810043198",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603810043198",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603810943198",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}],
+				"start_time": "1603810943198",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603811426265",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603811426265",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603811766523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603811766523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603812666523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603812666523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603813566523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603813566523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603814466523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603814466523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603815366523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603815366523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603816266523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}],
+				"start_time": "1603816266523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603817166523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603817166523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603818066523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}],
+				"start_time": "1603818066523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603818966523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603818966523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603819866523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603819866523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603820766523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603820766523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603821666523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}],
+				"start_time": "1603821666523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603822566523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}],
+				"start_time": "1603822566523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603823466523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}],
+				"start_time": "1603823466523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603824366523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Linux-Workstation"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603824366523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603825266523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Linux-Workstation"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}],
+				"start_time": "1603825266523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603826166523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Linux-Workstation"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603826166523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603827066523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Linux-Workstation"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}],
+				"start_time": "1603827066523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603827966523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Linux-Workstation"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603827966523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603828866523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Linux-Workstation"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}],
+				"start_time": "1603828866523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603829766523",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Linux-Workstation"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "iPhone 11"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603829766523",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603830259285",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603732476588",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603733284336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603733284336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603734184336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603734184336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603735084336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}],
+				"start_time": "1603735084336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603735984336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603735984336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603736884336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}],
+				"start_time": "1603736884336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603737784336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603737784336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603738684336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603738684336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603739584336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603739584336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603740484336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}],
+				"start_time": "1603740484336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603741384336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603741384336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603742284336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}],
+				"start_time": "1603742284336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603743184336",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}],
+				"start_time": "1603743184336",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603743192927",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603743192927",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603744092927",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603744092927",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603744992927",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603744992927",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603745892927",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}],
+				"start_time": "1603745892927",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603746792927",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603746792927",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603747692927",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603747692927",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603748592927",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603748592927",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603749492927",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603749492927",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603749737906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603749737906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603750637906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}],
+				"start_time": "1603750637906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603751537906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603751537906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603752437906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603752437906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603753337906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603753337906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603754237906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603754237906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603755137906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603755137906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603756037906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603756037906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603756937906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603756937906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603757837906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}],
+				"start_time": "1603757837906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603758737906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603758737906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603759637906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}],
+				"start_time": "1603759637906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603760537906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603760537906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603761437906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603761437906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603762337906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603762337906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603763237906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603763237906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603764137906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603764137906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603765037906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}],
+				"start_time": "1603765037906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603765937906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603765937906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603766837906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}],
+				"start_time": "1603766837906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603767737906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603767737906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603768637906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603768637906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603769537906",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}],
+				"start_time": "1603769537906",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603769941293",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "88:E9:FE:43:41:62",
+					"client_user": "iPad7",
+					"client_type": "iPad 6th Gen"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603769941293",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603770756222",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "F0:A3:5A:81:2E:C7",
+					"client_user": "aaron",
+					"client_type": "Un-Classified Device"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}, {
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "98:CA:33:64:13:CB",
+					"client_user": "iPhone7",
+					"client_type": "iPhone 7"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}],
+				"start_time": "1603770756222",
+				"ap_name": "AP0C75.BDB1.E174",
+				"end_time": "1603771180350",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}],
+			"mac_address": "88:E9:FE:1A:30:BD"
+		}]
+	},
+	"ciscoDnaEventLink": null,
+	"note": "",
+	"context": null,
+	"userId": null,
+	"i18n": null,
+	"eventHierarchy": null,
+	"message": null,
+	"messageParams": null,
+	"parentInstanceId": null,
+	"network": null
+}
