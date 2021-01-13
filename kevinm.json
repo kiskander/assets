@@ -1,0 +1,98 @@
+{
+	"version": "1.0.0",
+	"instanceId": "2725413529992414",
+	"eventId": "NETWORK-CLIENTS-3-506",
+	"namespace": "ASSURANCE",
+	"name": "Client Proximity Report",
+	"description": "Client Proximity report notification. This event will be triggered only when the execution for the Client Proximity API will complete.",
+	"type": "NETWORK",
+	"category": "INFO",
+	"domain": "Know Your Network",
+	"subDomain": "Clients",
+	"severity": 3,
+	"source": "DNAC",
+	"timestamp": 1609884921385,
+	"details": {
+		"start_time": "1608595200000",
+		"user_name": "kevinm",
+		"end_time": "1609884896481",
+		"time_resolution": "15",
+		"number_days": "14",
+		"client_proximity": [{
+			"client_info": [{
+				"users_info": [{
+						"client_mac": "88:E9:FE:46:D0:FA",
+						"client_user": "Remote2",
+						"client_type": "iPad 6th Gen"
+					},
+					{
+						"client_mac": "88:E9:FE:43:41:62",
+						"client_user": "iPad7",
+						"client_type": "iPad 6th Gen"
+					},
+					{
+						"client_mac": "70:F3:5A:7B:FB:50",
+						"client_user": "USER",
+						"client_type": "Sensor-Client-1800S"
+					},
+					{
+						"client_mac": "70:F3:5A:7C:9C:10",
+						"client_user": "USER",
+						"client_type": "Sensor-Client-1800S"
+					},
+					{
+						"client_mac": "70:F3:5A:7C:9B:51",
+						"client_user": "Sensor2",
+						"client_type": "Sensor-Client-1800S"
+					},
+					{
+						"client_mac": "70:F3:5A:7B:D9:50",
+						"client_user": "USER",
+						"client_type": "Sensor-Client-1800S"
+					},
+					{
+						"client_mac": "70:F3:5A:7B:4A:90",
+						"client_user": "USER",
+						"client_type": "Sensor-Client-1800S"
+					},
+					{
+						"client_mac": "70:F3:5A:7B:FB:51",
+						"client_user": "Sensor2",
+						"client_type": "Sensor-Client-1800S"
+					},
+					{
+						"client_mac": "70:F3:5A:7C:8B:71",
+						"client_user": "Sensor2",
+						"client_type": "Sensor-Client-1800S"
+					},
+					{
+						"client_mac": "70:F3:5A:7C:73:31",
+						"client_user": "Sensor2",
+						"client_type": "Sensor-Client-1800S"
+					},
+					{
+						"client_mac": "0C:75:BD:0D:5D:D0",
+						"client_user": "USER",
+						"client_type": "Sensor-Client-1800S"
+					}
+				],
+				"start_time": "1609884247428",
+				"ap_name": "AP4800.D092",
+				"end_time": "1609884258144",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}],
+			"mac_address": "B8:31:B5:9B:D4:B4"
+		}]
+	},
+	"ciscoDnaEventLink": null,
+	"note": "",
+	"context": null,
+	"userId": null,
+	"i18n": null,
+	"eventHierarchy": null,
+	"message": null,
+	"messageParams": null,
+	"parentInstanceId": null,
+	"network": null
+}
