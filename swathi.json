@@ -33815,10 +33815,7 @@
 					"client_mac": "B0:6F:E0:FF:B1:6C",
 					"client_user": "brad",
 					"client_type": "Android"
-				}, {
-					"client_mac": "70:F3:5A:78:75:71",
-					"client_type": "Sensor-Client-1800S"
-				}, {
+				},  {
 					"client_mac": "F0:A3:5A:81:2E:C7",
 					"client_user": "aaron",
 					"client_type": "Un-Classified Device"
@@ -33889,9 +33886,6 @@
 					"client_mac": "3E:70:2D:73:9C:07",
 					"client_user": "Samsung1",
 					"client_type": "Linux-Workstation"
-				}, {
-					"client_mac": "70:F3:5A:78:75:71",
-					"client_type": "Sensor-Client-1800S"
 				}],
 				"start_time": "1602740965348",
 				"ap_name": "AP0C75.BDB1.E174",
@@ -34100,9 +34094,6 @@
 					"client_user": "arun",
 					"client_type": "Android"
 				}, {
-					"client_mac": "70:F3:5A:78:75:71",
-					"client_type": "Sensor-Client-1800S"
-				}, {
 					"client_mac": "F0:A3:5A:81:2E:C7",
 					"client_user": "aaron",
 					"client_type": "Un-Classified Device"
@@ -34177,9 +34168,6 @@
 					"client_mac": "98:CA:33:64:13:CB",
 					"client_user": "iPhone7",
 					"client_type": "iPhone 7"
-				}, {
-					"client_mac": "70:F3:5A:78:75:71",
-					"client_type": "Sensor-Client-1800S"
 				}],
 				"start_time": "1602746365348",
 				"ap_name": "AP0C75.BDB1.E174",
@@ -63568,9 +63556,6 @@
 				}, {
 					"client_mac": "70:F3:5A:7C:73:30",
 					"client_user": "Sensor2",
-					"client_type": "Sensor-Client-1800S"
-				}, {
-					"client_mac": "70:F3:5A:78:75:71",
 					"client_type": "Sensor-Client-1800S"
 				}],
 				"start_time": "1603145048828",
