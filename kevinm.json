@@ -81,6 +81,109 @@
 				"end_time": "1609884258144",
 				"location": "Global/San Jose/SJ04/Fl3",
 				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+
+			}, {
+				"users_info": [{
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "88:E9:FE:1A:30:BD",
+					"client_user": "carl",
+					"client_type": "Apple-iPad"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}],
+				"start_time": "1603771504725",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603771859358",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
+			}, {
+				"users_info": [{
+					"client_mac": "3E:70:2D:73:9C:07",
+					"client_user": "Samsung1",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7B:D9:50",
+					"client_user": "USER",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "7C:46:85:20:80:6F",
+					"client_user": "swathi",
+					"client_type": "Android-Motorola"
+				}, {
+					"client_mac": "B0:6F:E0:FF:B1:6C",
+					"client_user": "brad",
+					"client_type": "Android"
+				}, {
+					"client_mac": "E8:E8:B7:46:75:9B",
+					"client_user": "Samsung2",
+					"client_type": "Samsung Galaxy S10"
+				}, {
+					"client_mac": "70:F3:5A:7C:73:30",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7B:FB:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "70:F3:5A:7C:8B:70",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "88:E9:FE:1A:30:BD",
+					"client_user": "carl",
+					"client_type": "Apple-iPad"
+				}, {
+					"client_mac": "70:F3:5A:7C:9B:50",
+					"client_user": "Sensor2",
+					"client_type": "Sensor-Client-1800S"
+				}, {
+					"client_mac": "F0:8A:76:25:1F:5A",
+					"client_user": "chen",
+					"client_type": "Android"
+				}],
+				"start_time": "1603771504725",
+				"ap_name": "APCC16.7E83.DCF6",
+				"end_time": "1603771859358",
+				"location": "Global/San Jose/SJ04/Fl3",
+				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
 			}],
 			"mac_address": "B8:31:B5:9B:D4:B4"
 		}]
