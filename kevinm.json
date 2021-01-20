@@ -22,75 +22,75 @@
 			"client_info": [{
 				"users_info": [{
 						"client_mac": "88:E9:FE:46:D0:FA",
-						"client_user": "Remote2",
-						"client_type": "iPad 6th Gen"
+						"client_user": "jbull",
+						"client_type": "Apple iPad 6th Gen"
 					},
 					{
 						"client_mac": "88:E9:FE:43:41:62",
-						"client_user": "iPad7",
-						"client_type": "iPad 6th Gen"
+						"client_user": "ethiel",
+						"client_type": "Apple iPhone 12 Pro"
 					},
 					{
 						"client_mac": "70:F3:5A:7B:FB:50",
-						"client_user": "USER",
-						"client_type": "Sensor-Client-1800S"
+						"client_user": "lacaldwe",
+						"client_type": "Apple-Macbook-Pro"
 					},
 					{
 						"client_mac": "70:F3:5A:7C:9C:10",
-						"client_user": "USER",
-						"client_type": "Sensor-Client-1800S"
+						"client_user": "mdenapol",
+						"client_type": "Apple-Macbook-Pro"
 					},
 					{
 						"client_mac": "70:F3:5A:7C:9B:51",
-						"client_user": "Sensor2",
-						"client_type": "Sensor-Client-1800S"
+						"client_user": "kiskande",
+						"client_type": "Apple-Macbook-Pro"
 					},
 					{
 						"client_mac": "70:F3:5A:7B:D9:50",
-						"client_user": "USER",
-						"client_type": "Sensor-Client-1800S"
+						"client_user": "veer",
+						"client_type": "Old-School-Win10"
 					},
 					{
 						"client_mac": "70:F3:5A:7B:4A:90",
-						"client_user": "USER",
-						"client_type": "Sensor-Client-1800S"
+						"client_user": "hkdomin",
+						"client_type": "Android"
 					},
 					{
 						"client_mac": "70:F3:5A:7B:FB:51",
-						"client_user": "Sensor2",
-						"client_type": "Sensor-Client-1800S"
+						"client_user": "mmackay",
+						"client_type": "Android"
 					},
 					{
 						"client_mac": "70:F3:5A:7C:8B:71",
-						"client_user": "Sensor2",
-						"client_type": "Sensor-Client-1800S"
+						"client_user": "memhmot",
+						"client_type": "Lenovo-win-10"
 					},
 					{
 						"client_mac": "70:F3:5A:7C:73:31",
-						"client_user": "Sensor2",
-						"client_type": "Sensor-Client-1800S"
+						"client_user": "ailiesiu",
+						"client_type": "Apple-Macbook-Pro"
 					},
 					{
 						"client_mac": "0C:75:BD:0D:5D:D0",
-						"client_user": "USER",
-						"client_type": "Sensor-Client-1800S"
+						"client_user": "priel",
+						"client_type": "Raspberry Pi 3"
 					}
 				],
 				"start_time": "1609884247428",
 				"ap_name": "AP4800.D092",
 				"end_time": "1609884258144",
-				"location": "Global/San Jose/SJ04/Fl3",
+				"location": "Global/San Jose/SJ20/Fl2",
 				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
 
 			}, {
 				"users_info": [{
 					"client_mac": "3E:70:2D:73:9C:07",
-					"client_user": "Samsung1",
+					"client_user": "gabi",
 					"client_type": "Samsung Galaxy S10"
 				}, {
 					"client_mac": "70:F3:5A:7B:D9:50",
-					"client_user": "USER",
-					"client_type": "Sensor-Client-1800S"
+					"client_user": "joe",
+					"client_type": "Apple-Macbook-Pro"
 				}, {
 					"client_mac": "7C:46:85:20:80:6F",
 					"client_user": "swathi",
@@ -101,48 +101,48 @@
 					"client_type": "Android"
 				}, {
 					"client_mac": "E8:E8:B7:46:75:9B",
-					"client_user": "Samsung2",
+					"client_user": "randy",
 					"client_type": "Samsung Galaxy S10"
 				}, {
 					"client_mac": "70:F3:5A:7C:73:30",
 					"client_user": "Sensor2",
-					"client_type": "Sensor-Client-1800S"
+					"client_type": "Apple-Macbook-Pro"
 				}, {
 					"client_mac": "70:F3:5A:7B:FB:50",
-					"client_user": "Sensor2",
-					"client_type": "Sensor-Client-1800S"
+					"client_user": "joel",
+					"client_type": "Apple-Macbook-Pro"
 				}, {
 					"client_mac": "70:F3:5A:7C:8B:70",
-					"client_user": "Sensor2",
-					"client_type": "Sensor-Client-1800S"
+					"client_user": "imran",
+					"client_type": "Apple-iPhone 12"
 				}, {
 					"client_mac": "88:E9:FE:1A:30:BD",
 					"client_user": "carl",
 					"client_type": "Apple-iPad"
 				}, {
 					"client_mac": "70:F3:5A:7C:9B:50",
-					"client_user": "Sensor2",
-					"client_type": "Sensor-Client-1800S"
+					"client_user": "hank",
+					"client_type": "Apple-Macbook-Pro"
 				}, {
 					"client_mac": "F0:8A:76:25:1F:5A",
 					"client_user": "chen",
 					"client_type": "Android"
 				}],
-				"start_time": "1603771504725",
+				"start_time": "1608669220000",
 				"ap_name": "APCC16.7E83.DCF6",
-				"end_time": "1603771859358",
+				"end_time": "1608677751000",
 				"location": "Global/San Jose/SJ04/Fl3",
 				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
 			}, {
 				"users_info": [{
 					"client_mac": "3E:70:2D:73:9C:07",
-					"client_user": "Samsung1",
-					"client_type": "Samsung Galaxy S10"
+					"client_user": "ralph",
+					"client_type": "Cisco WebEx Desk Pro"
 				}, {
 					"client_mac": "70:F3:5A:7B:D9:50",
-					"client_user": "USER",
-					"client_type": "Sensor-Client-1800S"
-				}, {
+					"client_user": "mmolvato",
+					"client_type": "Android"
+				}, 
 					"client_mac": "7C:46:85:20:80:6F",
 					"client_user": "swathi",
 					"client_type": "Android-Motorola"
@@ -152,37 +152,26 @@
 					"client_type": "Android"
 				}, {
 					"client_mac": "E8:E8:B7:46:75:9B",
-					"client_user": "Samsung2",
+					"client_user": "gabi",
 					"client_type": "Samsung Galaxy S10"
 				}, {
 					"client_mac": "70:F3:5A:7C:73:30",
-					"client_user": "Sensor2",
-					"client_type": "Sensor-Client-1800S"
-				}, {
-					"client_mac": "70:F3:5A:7B:FB:50",
-					"client_user": "Sensor2",
-					"client_type": "Sensor-Client-1800S"
-				}, {
-					"client_mac": "70:F3:5A:7C:8B:70",
-					"client_user": "Sensor2",
-					"client_type": "Sensor-Client-1800S"
+					"client_user": "kareem",
+					"client_type": "Apple-iPhone 12 Pro"
 				}, {
 					"client_mac": "88:E9:FE:1A:30:BD",
 					"client_user": "carl",
 					"client_type": "Apple-iPad"
-				}, {
-					"client_mac": "70:F3:5A:7C:9B:50",
-					"client_user": "Sensor2",
-					"client_type": "Sensor-Client-1800S"
-				}, {
+				},
+				   {
 					"client_mac": "F0:8A:76:25:1F:5A",
 					"client_user": "chen",
 					"client_type": "Android"
 				}],
-				"start_time": "1603771504725",
+				"start_time": "1607019010000",
 				"ap_name": "APCC16.7E83.DCF6",
-				"end_time": "1603771859358",
-				"location": "Global/San Jose/SJ04/Fl3",
+				"end_time": "1607028310000",
+				"location": "Global/San Jose/SJ21/Fl3",
 				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
 			}],
 			"mac_address": "B8:31:B5:9B:D4:B4"
