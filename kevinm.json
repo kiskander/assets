@@ -13,9 +13,9 @@
 	"source": "DNAC",
 	"timestamp": 1609884921385,
 	"details": {
-		"start_time": "1608595200000",
+		"start_time": "1609866000000",
 		"user_name": "kevinm",
-		"end_time": "1609884896481",
+		"end_time": "1611082800000",
 		"time_resolution": "15",
 		"number_days": "14",
 		"client_proximity": [{
@@ -76,9 +76,9 @@
 						"client_type": "Raspberry Pi 3"
 					}
 				],
-				"start_time": "1609884247428",
+				"start_time": "1610128800000",
 				"ap_name": "AP4800.D092",
-				"end_time": "1609884258144",
+				"end_time": "1610131500000",
 				"location": "Global/San Jose/SJ20/Fl2",
 				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
 
@@ -128,9 +128,9 @@
 					"client_user": "chen",
 					"client_type": "Android"
 				}],
-				"start_time": "1608669220000",
+				"start_time": "1610406912000",
 				"ap_name": "APCC16.7E83.DCF6",
-				"end_time": "1608677751000",
+				"end_time": "1610409312000",
 				"location": "Global/San Jose/SJ04/Fl3",
 				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
 			}, {
@@ -168,9 +168,9 @@
 					"client_user": "chen",
 					"client_type": "Android"
 				}],
-				"start_time": "1607019010000",
+				"start_time": "1610914212000",
 				"ap_name": "APCC16.7E83.DCF6",
-				"end_time": "1607028310000",
+				"end_time": "1610918412000",
 				"location": "Global/San Jose/SJ21/Fl3",
 				"location_id": "852ca7bf-b926-4023-bbfd-69a612a0f77e"
 			}],
